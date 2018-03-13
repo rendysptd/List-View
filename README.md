@@ -1,6 +1,6 @@
 # Screenshot
 <p align="center">
-  <img src="https://github.com/rendysptd/List-View/blob/master/screenshot/S__37642246.png"/>
+  <img src="https://github.com/rendysptd/List-View/blob/master/screenshoot/S__37642246.png"/>
 </p>
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 

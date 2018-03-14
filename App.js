@@ -20,6 +20,6 @@ const styles = StyleSheet.create({
   containerMain: {
     paddingTop: 20,
     flex: 1,
-    backgroundColor: '#2196F3'
+    backgroundColor: 'white'
   }
 })

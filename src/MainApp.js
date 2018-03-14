@@ -53,12 +53,12 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
   },
   title: {
-    backgroundColor: '#0f1b29',
+    backgroundColor: '#01579B',
     color: '#fff',
-    fontSize: 18,
+    fontSize: 25,
     fontWeight: 'bold',
-    padding: 10,
-    paddingTop: 40,
+    padding: 15,
+    paddingTop: 15,
     textAlign: 'center',
   },
   row: {
